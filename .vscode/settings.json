@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "CIU42.C": "cpp",
+        "string.h": "c",
+        "stdio.h": "c",
+        "conio.h": "c",
+        "aps.C": "cpp",
+        "CIU92.C": "cpp",
+        "ciu92.c.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
