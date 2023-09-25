@@ -6,7 +6,9 @@
         "conio.h": "c",
         "aps.C": "cpp",
         "CIU92.C": "cpp",
-        "ciu92.c.C": "cpp"
+        "ciu92.c.C": "cpp",
+        "n.C": "cpp",
+        ".C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
