@@ -1,21 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-//prototype 
-/* return_type function_name (arguments);     */
+  // prototype
+  /* return_type function_name (arguments);     */
 
+  // call
 
-
-
-
-//call
-
-
-//function
-
-
-
-
+  // function
 
   return 0;
 }

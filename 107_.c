@@ -1,6 +1,6 @@
-//structure
+// structure
 
-//employe data {101/115}
+// employe data {101/115}
 
 /*
 syntax :
@@ -15,7 +15,6 @@ struct structure_name
 
 
 */
-
 
 /*
 this type of data is stored in empployee
